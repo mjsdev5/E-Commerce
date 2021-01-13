@@ -1370,10 +1370,10 @@
   resolved "https://registry.yarnpkg.com/@bcoe/v8-coverage/-/v8-coverage-0.2.3.tgz#75a2e8b51cb758a7553d6804a5932d7aace75c39"
   integrity sha512-0hYQ8SB4Db5zvZB4axdMHGwEaQjkZzFjQiN9LVYvIFB2nSUHW9tYpxWriPrWDASIxiaXax83REcLxuSdnGPZtw==
 
-"@chec/commerce.js@2.3.0":
-  version "2.3.0"
-  resolved "https://registry.yarnpkg.com/@chec/commerce.js/-/commerce.js-2.3.0.tgz#5e3318baefffa7417039b03ebbd30f05e6dcbe19"
-  integrity sha512-rhv9HtXfkDDc0tGC0PoGHSyeOcpz3qrAjUZ3RMqCkkJMYupgW2DnNsnR2cNqAIe+KUC+BtbBRGKLQAqUp0EYnQ==
+"@chec/commerce.js@2.3.1":
+  version "2.3.1"
+  resolved "https://registry.yarnpkg.com/@chec/commerce.js/-/commerce.js-2.3.1.tgz#f639ccc5bf4ed05122fa7e1eb9531cfd0b5f06dd"
+  integrity sha512-bt0oMwDxXUJV7zXGJoNxBzrD6h021f4Cb0IBjLX43e++1HUa7ALsP/Z19c6JpPziy9UQOAehMyGiKVOFvKWE0w==
   dependencies:
     axios "^0.21.1"
 
