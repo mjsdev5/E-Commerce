@@ -1095,10 +1095,10 @@
   resolved "https://registry.npmjs.org/@bcoe/v8-coverage/-/v8-coverage-0.2.3.tgz"
   integrity sha512-0hYQ8SB4Db5zvZB4axdMHGwEaQjkZzFjQiN9LVYvIFB2nSUHW9tYpxWriPrWDASIxiaXax83REcLxuSdnGPZtw==
 
-"@chec/commerce.js@2.4.0":
-  version "2.4.0"
-  resolved "https://registry.npmjs.org/@chec/commerce.js/-/commerce.js-2.4.0.tgz"
-  integrity sha512-Ax7S5klkk5pLBjL1ydXSIMIauhJIzE0pUTKkjgSOvF5c6Kopk/9Xc7db0M+zsQcsh6WS39GMo5mcqsXra2Sb6Q==
+"@chec/commerce.js@2.4.1":
+  version "2.4.1"
+  resolved "https://registry.npmjs.org/@chec/commerce.js/-/commerce.js-2.4.1.tgz"
+  integrity sha512-OJkL3GbXocYxLkvC0OsKU9f96K35yVk/cZ6Ik4xBkBe1k+EIkIZ33dpOwK32FuqtNvauQNjb3Ndn4urYWzK2OA==
   dependencies:
     axios "^0.21.1"
 
